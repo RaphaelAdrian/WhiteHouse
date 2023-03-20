@@ -1,11 +1,18 @@
 # White-House (Thesis)
 ## Overview 
 This game features the following Philippine Mythological creatures, Manananggal, Tiyanak, Tikbalang, Tiktik, Santelmo, Kapre, Black Lady
+
+We aimed to develop a horror game that highlights the popular mythical creatures of the Philippines, as well as to address some of the country’s important traditions and cultures such as showing respect to elders through “pagmamano”. With this, Philippine mythology will be promoted in a much innovative and entertaining way.
+
+Plastic SCM (Version Control) for our collaboration system. 
+
+
 ![image](https://user-images.githubusercontent.com/68283243/225046673-1af2e2a0-68ce-4374-a73f-f641e3ef2089.png)
 
+## Logline
+Juana, who lost her memory at a young age, returns to her ancestral home. Arriving at the house, she discovers that it is full of dark secrets.
+
 ## About the Project
-This game --- 
-Plastic SCM (Version Control) for our collaboration system. 
 
 Rendering Pipeline (HDRP)
 
